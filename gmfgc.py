@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#GaMe ManuFacturinG Code Parser
-
 
 from sys import argv
 import string
