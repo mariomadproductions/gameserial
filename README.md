@@ -1,3 +1,6 @@
-# Game Manufacturing Code Parser
+# gameserial
 
-Currently works for GameCube, Wii and Wii U discs. I'm not 100% sure that the first digit is "factory", but it seems to line up between discs of the same country of manufacturing (based on the "Made in Japan" or "Made in USA" mould text).
+Game serial parser.
+
+Currently supported:
+ - GameCube, Wii and Wii U discs manufacturing code.
